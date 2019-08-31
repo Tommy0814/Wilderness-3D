@@ -15,7 +15,7 @@ git clone https://github.com/Tommy0814/Wilderness3D.git
 #
 #
 ### Update:
-* #### 1. Make sure you have the lastest version
+* #### 1. Make sure the current version is latest
 ```
 git pull
 ```
