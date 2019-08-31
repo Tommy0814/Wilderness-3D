@@ -2,6 +2,7 @@
 ## Artificial Intelligence Powered Gameplay & Virtual Reality Supported Interactive System
 #
 #
+### Install: 
 * ### Step 1: Open Command Line
 * ### Step 2: CD to the Folder To Install the Game
 * ### Step 3: 
