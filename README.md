@@ -35,8 +35,11 @@ git push
 #
 #### Asset Links:
 [Stylized Nature Bundle](https://assetstore.unity.com/packages/3d/vegetation/trees/stylized-nature-bundle-135352)
+|
 [Low Poly Animated Animals](https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-animals-93089)
+|
 [Low Poly Modular Terrain Pack](https://assetstore.unity.com/packages/3d/environments/low-poly-modular-terrain-pack-91558)
+|
 [POLYGON - Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/trees/polygon-nature-pack-120152)
 
 #### Disclaimer: No Intention to Distribute the Purchased Assets that Require Loyalty.
