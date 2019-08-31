@@ -2,12 +2,9 @@
 ## Artificial Intelligence Powered Gameplay & Virtual Reality Supported Interactive System
 # .
 # .
-# .
-# .
-# .
-## Step 1: Open Command Line
-## Step 2: CD to the Folder To Install the Game
-## Step 3: 
+Step 1: Open Command Line
+Step 2: CD to the Folder To Install the Game
+Step 3: 
 ```
 git clone https://github.com/Tommy0814/Wilderness3D.git
 ```
