@@ -18,15 +18,15 @@ git clone https://github.com/Tommy0814/Wilderness3D.git
 ```
 git pull
 ```
-* #### 2. 
+* #### 2. Add 
 ```
 git add .
 ```
-* #### 3.
+* #### 3. Commit 
 ```
 git commit -m "anything"
 ```
-* #### 4.
+* #### 4. Push
 ```
 git push
 ```
