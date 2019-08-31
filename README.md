@@ -3,15 +3,15 @@
 #
 #
 * ### Step 1: Open Command Line
-* Step 2: CD to the Folder To Install the Game
-* Step 3: 
+* ###Step 2: CD to the Folder To Install the Game
+* ### Step 3: 
 ```
 git clone https://github.com/Tommy0814/Wilderness3D.git
 ```
-### Step 4: Open Unity 3D
-### Step 5: Open Project
-### Step 6: Develop the Game and Use Git Command Line to Keep Updating
-###
+* ### Step 4: Open Unity 3D
+* ### Step 5: Open Project
+* ### Step 6: Develop the Game and Use Git Command Line to Keep Updating
+#
 ###
 ### Update:
 * 1. Make sure you have the lastest version
