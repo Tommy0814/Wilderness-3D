@@ -3,7 +3,7 @@
 #
 #
 * ### Step 1: Open Command Line
-* ###Step 2: CD to the Folder To Install the Game
+* ### Step 2: CD to the Folder To Install the Game
 * ### Step 3: 
 ```
 git clone https://github.com/Tommy0814/Wilderness3D.git
@@ -14,19 +14,19 @@ git clone https://github.com/Tommy0814/Wilderness3D.git
 #
 #
 ### Update:
-* 1. Make sure you have the lastest version
+* #### 1. Make sure you have the lastest version
 ```
 git pull
 ```
-* 2. 
+* #### 2. 
 ```
 git add .
 ```
-* 3.
+* #### 3.
 ```
 git commit -m "anything"
 ```
-* 4.
+* #### 4.
 ```
 git push
 ```
