@@ -30,6 +30,6 @@ git commit -m "anything"
 ```
 git push
 ```
-###
-###
+#
+#
 #### Disclaimer: No Intention to Distribute the Purchased Assets that Require Loyalty.
