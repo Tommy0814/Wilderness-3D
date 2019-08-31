@@ -12,7 +12,7 @@ git clone https://github.com/Tommy0814/Wilderness3D.git
 * ### Step 5: Open Project
 * ### Step 6: Develop the Game and Use Git Command Line to Keep Updating
 #
-###
+#
 ### Update:
 * 1. Make sure you have the lastest version
 ```
