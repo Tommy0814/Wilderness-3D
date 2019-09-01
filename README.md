@@ -12,7 +12,13 @@ git clone https://github.com/Tommy0814/Wilderness3D.git
 * ### Step 4: Open Unity 3D
 * ### Step 5: Open Project
 * ### Step 6: Develop the Game and Use Git Command Line to Keep Updating
+* ### Step 7: Checkout to Beta Branch
+```
+git checkout beta
+```
+* ### Step 8: Push Work to Beta Branch
 #
+# NOTICE: ONLY Work on and Push to Beta Branch
 #
 ### Update:
 * #### 1. Make sure the current version is latest
