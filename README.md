@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wilderness 3D
 ## Artificial Intelligence Powered Gameplay & Virtual Reality Supported Interactive System
 #
