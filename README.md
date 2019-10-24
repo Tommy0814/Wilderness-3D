@@ -53,7 +53,3 @@ git push
 #
 
 #### Disclaimer: No Intention to Redistribute the Purchased Assets that Require Loyalty.
-=======
-# Wilderness3D
-An AI-Powered 3D Sandbox Game
->>>>>>> 7470046b11a8fe94c56ab6a86d674e6242fc4c26
