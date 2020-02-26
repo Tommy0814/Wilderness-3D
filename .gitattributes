@@ -1,5 +1,0 @@
-*.pack filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
-*.tga filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> 255f3f044163016b5a14194e68aa5434424c4f25
